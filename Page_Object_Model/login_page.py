@@ -1,5 +1,6 @@
 from selenium.webdriver.common.by import By
 from Page_Object_Model.action_utils import ActionUtils
+import allure
 
 class LoginPage(ActionUtils):
 
@@ -12,25 +13,30 @@ class LoginPage(ActionUtils):
     login_btn = (By.ID, "log-in")
 
     # 頁面操作相關的 methods
+    @allure.step("Print Header Text")
     def print_header_text(self):
         print("印出 Header 的文字")
         # 應用了父層 ActionUtils 的 Method
         print(self.find_visible_elem(self.header).text)
 
+    @allure.step("Input Username")
     def input_username(self, username):
         print(f"輸入 Username: {username}")
         username_elem = self.find_clickable_elem(self.username_text_field)
         username_elem.send_keys(username)
 
+    @allure.step("Input Password")
     def input_password(self, password):
         print(f"輸入 Password: {password}")
         pw_elem = self.find_clickable_elem(self.pw_text_field)
         pw_elem.send_keys(password)
 
+    @allure.step("Check Remember Me")
     def check_remember_me(self):
         print("勾選 Remember me")
         self.find_clickable_elem(self.remember_me_checkbox).click()
 
+    @allure.step("Click Login Button")
     def click_login_btn(self):
         print("點擊登入按鈕")
         self.find_clickable_elem(self.login_btn).click()

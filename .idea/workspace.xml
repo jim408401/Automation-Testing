@@ -4,7 +4,99 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b7f744-14e4-4459-b6ea-3e6f7ac83f42" name="Changes" comment="web test" />
+    <list default="true" id="e5b7f744-14e4-4459-b6ea-3e6f7ac83f42" name="Changes" comment="web test">
+      <change afterPath="$PROJECT_DIR$/Page_Object_Model/allure-results/585a0e30-8665-480c-a5dd-04b8bec60cf7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page_Object_Model/allure-results/5f89f167-8361-476c-867d-b5c9cf8abed2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/15db84484323cb78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/20e621fc15e17013.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/377f50d7ec375372.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/3db7d47a4a900aea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/3e88953e8d8f8a82.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/7f82c922bfe8c52d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/8b6a2af24da718be.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/9cfc6d4e89b15150.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/a7ec91a342a6d519.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/test-cases/e1abfc3acdee7870.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/plugin/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/14cc1988-3859-4f4c-88ae-aa01f55c188f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/15477604-85ec-4020-b41d-ddfe682076a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30cad9dc-b322-472d-8be0-9df4e184557b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3ebe0cd1-abdc-41fa-999f-c4a50b2a0e62-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/476f5252-b8b9-4727-908b-1fb4ead4a382-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f954eae-2da2-4492-a186-757f12e81208-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/617fc7c6-876e-4f01-a6fb-0dccb565d5e6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64cee53b-2aca-4934-a861-af1a0a05559c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/73e712bd-4310-4798-825a-ec64ad9db095-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/770f165e-1a5b-4f69-b198-47788d0b11eb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/78111c1c-1013-40d1-a666-2c3177732d82-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/788f978d-2232-49a9-8e73-0365b991ef19-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7972067d-1577-449e-af5f-ae823354aea9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8bda489e-c669-417b-8878-5592f1240971-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8bf7c15e-9baf-4f05-981c-cc0fab648ce6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/901de08f-660d-49bb-b679-eed5f8af4def-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9a0fab9d-3132-4ff1-a10f-3cf35b462fe9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a4b373bc-01b0-4556-97cc-49374c6a3171-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aba0eff6-7d1b-4e7e-8957-40aff56de10b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c5773611-3801-445a-b16e-ca0e95d8bf18-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d13ed0ac-6773-46dc-9749-02a3e4feb972-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e936967f-dc94-4979-9c47-3e2ba5b4c816-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e93c24fe-14e4-4bee-96a8-09cbbaa1ea55-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eafcd6df-9e2e-42b2-a482-9ae110e39667-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee3050a1-61a2-4df4-b953-5c2ff75455b6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f3d43471-62ca-4e98-8e23-ae6a6f2493f3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f77c1a20-9e73-4caa-bb53-8254b791f6b7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f8ec6ff0-665b-4841-a3f6-5f775a1e5b43-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/pytest-logs.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_markers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page_Object_Model/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page_Object_Model/login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page_Object_Model/web_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page_Object_Model/web_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_tests/web_test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_tests/web_test02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test03.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_tests/web_test03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_tests/web_test04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_test05.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_tests/web_test05.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +112,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jim408401&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jim408401/Automation-Testing.git&quot;,
+    &quot;accountId&quot;: &quot;52d44d77-023d-43ce-9176-b9eeb41635a4&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -31,27 +135,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for test_sample.test_one.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_sample.test_two.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web_test02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web_test03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web_test04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.web_test05.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_markers.test_one.executor": "Run",
+    "Python tests.Python tests for test_markers.test_three.executor": "Run",
+    "Python tests.Python tests for test_markers.test_two.executor": "Run",
+    "Python tests.Python tests for test_sample.test_one.executor": "Run",
+    "Python tests.Python tests for test_sample.test_two.executor": "Run",
+    "Python tests.Python tests in web_test.py.executor": "Run",
+    "Python.login_page.executor": "Run",
+    "Python.web_test.executor": "Run",
+    "Python.web_test02.executor": "Run",
+    "Python.web_test03.executor": "Run",
+    "Python.web_test04.executor": "Run",
+    "Python.web_test05.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Page_Object_Model" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/web_tests" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_sample.test_one">
+  <component name="RunManager">
+    <configuration name="Python tests for test_markers.test_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_markers.test_one&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_markers.test_two" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_markers.test_two&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_sample.test_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Automation-Testing" />
       <option name="ENV_FILES" value="" />
@@ -82,8 +224,26 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for tests.test_markers.test_one" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Automation-Testing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_markers.test_one&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_markers.test_one" />
+        <item itemvalue="Python tests.Python tests for test_markers.test_two" />
+        <item itemvalue="Python tests.Python tests for tests.test_markers.test_one" />
         <item itemvalue="Python tests.Python tests for test_sample.test_two" />
         <item itemvalue="Python tests.Python tests for test_sample.test_one" />
       </list>
@@ -121,7 +281,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716442431192</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="web test">
+      <option name="closed" value="true" />
+      <created>1716442605109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716442605109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="web test">
+      <option name="closed" value="true" />
+      <created>1716442840490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716442840490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
