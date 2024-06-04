@@ -21,7 +21,7 @@ def test_login():
     with allure.step("打印 Header 文字"):
         login_page.print_header_text()
 
-    with allure.step("輸入登入信息"):
+    with allure.step("輸入登入訊息"):
         login_page.input_username("username")
         login_page.input_password("password")
         login_page.check_remember_me()
